@@ -1,0 +1,12 @@
+
+from tkinter import *
+
+
+window = tk()
+
+
+window.titel('demo window')
+window.geometry('400x300')
+
+
+wimdow.mainloop()
